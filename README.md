@@ -1,3 +1,6 @@
+[![Validar Script Shell](https://github.com/Alicia1992-Lu/mi-primer-repo/actions/workflows/validate.yml/badge.svg)](https://github.com/Alicia1992-Lu/mi-primer-repo/actions/workflows/validate.yml)
+
+
 # Mi primer repositorio
 Nombre: Alicia
 Ciclo formativo: ASIR
